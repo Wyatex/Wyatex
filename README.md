@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyatex" alt="wyatex" /></a> </p>
 
-- 🌱 I’m currently learning **vue**
+- 🌱 I’m currently learning **Dart** and **flutter**
 
 - 📝 I regularly write articles on [wyatex.gitee.io](wyatex.gitee.io)
 
