@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dart** and **flutter**
 
-- 📝 I regularly write articles on [wyatex.work](wyatex.work)
+- 📝 I regularly write articles on [wyatex.work](https://wyatex.work)
 
 - 📫 How to reach me **wyatex@qq.com**
 
