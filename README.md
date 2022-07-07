@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend and backend developer from China</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyatex" alt="wyatex" /></a> </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatex)](https://github.com/Wyatex)
 
 
 - 🌱 I’m currently learning **Dart** and **flutter**
