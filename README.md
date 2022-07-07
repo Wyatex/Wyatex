@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wyatex</h1>
+<h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="android" width="300" height="40"/> visitor </h1>
+<h1 align="center">I'm Wyatex</h1>
 <h3 align="center">A passionate frontend and backend developer from China</h3>
-<h3 align="center">My <img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="android" width="300" height="40"/> visitor </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyatex" alt="wyatex" /></a> </p>
 
