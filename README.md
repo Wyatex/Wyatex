@@ -19,7 +19,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Dart** and **flutter**
+🌱 I’m currently learning **Python** and **Rust**
 
 📝 I regularly write articles on [wyatex.work](https://wyatex.work)
 
