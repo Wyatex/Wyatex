@@ -18,25 +18,21 @@
 <h3 align="center">A passionate frontend and backend developer from China</h3>
 
 <div align="center">
-
-🌱 I’m currently learning **Python** and **Rust**
-
-📝 I regularly write articles on [wyatex.work](https://wyatex.work)
-
-📫 How to reach me **wyatex@qq.com**
+ 
+- 💻 一个底层程序员
+- 🎨 学过的语言好像有点多，Java、Go、JS/TS、Dart
+- 📱 最近在搞大前端，Flutter、Uniapp、Weex、Tauri......
+- 📖 在学Rust和Python
+- 📝 来看看我的文章？ [wyatex.work](https://wyatex.work)
+- 📫 想联系我吗？ **wyatex@qq.com**
 
 </div>
 
-<div align="center">
-  <img alt-"html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatex" width="300" title="html">
+<div >
+  <img align="left" alt-"html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatex" width="300" title="html">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
+  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </div>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
-</p>
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
