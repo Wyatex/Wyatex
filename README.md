@@ -19,7 +19,7 @@
 
 <div align="center">
  
-- 💻 一个底层程序员
+- 💻 一个底层打工程序员
 - 🎨 学过的语言好像有点多，Java、Go、JS/TS、Dart
 - 📱 最近在搞大前端，Flutter、Uniapp、Weex、Tauri......
 - 📖 在学Rust和Python
