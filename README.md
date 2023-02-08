@@ -42,7 +42,7 @@
 
 <!-- GitHub奖杯🏆 -->
 <a align="center" href="#gh-light-mode-only"><img  src="https://github-profile-trophy.vercel.app/?username=wyatex&row=1&column=6&no-frame=true&no-bg=true" /></a>
-<a align="center" href="#gh-dark-mode-only"><img  src="https://github-profile-trophy.vercel.app/?username=wyatex&theme=algolia&row=1&column=6&no-frame=true" /></a>
+<a align="center" href="#gh-dark-mode-only"><img  src="https://github-profile-trophy.vercel.app/?username=wyatex&theme=algolia&row=1&column=6&no-frame=true&hide_border=true" /></a>
 <br>
 
 <a align="center" href="#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyatex" alt="wyatex" /></a>
