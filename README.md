@@ -41,11 +41,12 @@
 </a>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<a align="center" href="#gh-light-mode-only"><img  src="https://github-profile-trophy.vercel.app/?username=wyatex&row=1&column=6&no-frame=true&no-bg=true" /></a>
+<a align="center" href="#gh-dark-mode-only"><img  src="https://github-profile-trophy.vercel.app/?username=wyatex&theme=algolia&row=1&column=6&no-frame=true" /></a>
 <br>
 
 <a align="center" href="#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyatex" alt="wyatex" /></a>
-<a align="center" href="#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyatex&theme=dark" alt="wyatex" /></a>
+<a align="center" href="#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyatex&theme=algolia" alt="wyatex" /></a>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
