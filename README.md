@@ -37,7 +37,7 @@
 <a href="#gh-dark-mode-only">
   <img align="left" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex&theme=algolia&hide_border=true" width="300" title="html">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
-  <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=dark" width="300">
+  <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=algolia" width="300">
 </a>
 
 <!-- GitHub奖杯🏆 -->
