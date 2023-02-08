@@ -28,17 +28,17 @@
 
 </div>
 
-<div href="#gh-light-mode-only">
+<a href="#gh-light-mode-only">
   <img align="left" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=default_repocard"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
   <img align="right" src="https://quotes-github-readme.vercel.app/api" width="300">
-</div>
+</a>
 
-<div href="#gh-dark-mode-only">
+<a href="#gh-dark-mode-only">
   <img align="left" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex&theme=dark" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=default_repocard&theme=dark"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=dark"/>
   <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=dark" width="300">
-</div>
+</a>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
