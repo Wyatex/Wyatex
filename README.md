@@ -29,14 +29,14 @@
 </div>
 
 <div href="#gh-light-mode-only">
-  <img align="left" alt-"html5" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
+  <img align="left" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex" width="300" title="html">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=default_repocard"/>
   <img align="right" src="https://quotes-github-readme.vercel.app/api" width="300">
 </div>
 
 <div href="#gh-dark-mode-only">
-  <img align="left" alt-"html5" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
+  <img align="left" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex&theme=dark" width="300" title="html">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=default_repocard&theme=dark"/>
   <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=dark" width="300">
 </div>
 
