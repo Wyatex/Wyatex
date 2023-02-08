@@ -28,10 +28,16 @@
 
 </div>
 
-<div >
-  <img align="left" alt-"html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatex" width="300" title="html">
+<div href="#gh-light-mode-only">
+  <img align="left" alt-"html5" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex" width="300" title="html">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
-  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img align="right" src="https://quotes-github-readme.vercel.app/api" width="300">
+</div>
+
+<div href="#gh-dark-mode-only">
+  <img align="left" alt-"html5" src="https://github-readme-stats.wyatex.online/api/top-langs?username=wyatex" width="300" title="html">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/>
+  <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=dark" width="300">
 </div>
 
 <!-- GitHub奖杯🏆 -->
