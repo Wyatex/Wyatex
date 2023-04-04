@@ -11,15 +11,49 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<div align="center">
-  <img alt="vercel" src="https://api.iconify.design/logos:vercel.svg" height="100" title="css">
-  <img alt="go" src="https://api.iconify.design/logos:go.svg" height="100" title="css">
-  <img alt="spring" src="https://api.iconify.design/logos:spring.svg" height="100" title="css">
-  <img alt="vite" src="https://api.iconify.design/logos:vitejs.svg" width="100" title="vscode">
-  <img alt="vue" src="https://api.iconify.design/logos:vue.svg" width="100" title="python">
-  <img alt="flutter" src="https://api.iconify.design/logos:flutter.svg" width="100" title="html">
-  <img alt="rust" src="https://api.iconify.design/logos:rust.svg" width="100" title="html">
-</div>
+<a href="#gh-light-mode-only">
+  <div align="center">
+    <img alt="as" src="https://api.iconify.design/skill-icons:androidstudio-light.svg" width="100" title="css">
+    <img alt="go" src="https://api.iconify.design/skill-icons:golang.svg" width="100" title="css">
+    <img alt="dart" src="https://api.iconify.design/skill-icons:dart-light.svg" width="100" title="css">
+    <img alt="docker" src="https://api.iconify.design/skill-icons:docker.svg" width="100" title="vscode">
+    <img alt="flutter" src="https://api.iconify.design/skill-icons:flutter-light.svg" width="100" title="python">
+    <img alt="jest" src="https://api.iconify.design/skill-icons:jest.svg" width="100" title="html">
+    <img alt="k8s" src="https://api.iconify.design/skill-icons:kubernetes.svg" width="100" title="html">
+    <img alt="nestjs" src="https://api.iconify.design/skill-icons:nestjs-light.svg" width="100" title="vscode">
+    <img alt="vercel" src="https://api.iconify.design/skill-icons:vercel-light.svg" width="100" title="python">
+    <img alt="actions" src="https://api.iconify.design/skill-icons:githubactions-light.svg" width="100" title="html">
+    <img alt="rollup" src="https://api.iconify.design/skill-icons:rollupjs-light.svg" width="100" title="html">
+    <img alt="vite" src="https://api.iconify.design/skill-icons:vite-light.svg" width="100" title="vscode">
+    <img alt="webpack" src="https://api.iconify.design/skill-icons:webpack-light.svg" width="100" title="python">
+    <img alt="ts" src="https://api.iconify.design/skill-icons:typescript.svg" width="100" title="html">
+    <img alt="tailwind" src="https://api.iconify.design/skill-icons:tailwindcss-light.svg" width="100" title="html">
+    <img alt="tauri" src="https://api.iconify.design/skill-icons:tauri-light.svg" width="100" title="html">
+    <img alt="rust" src="https://api.iconify.design/skill-icons:rust.svg" width="100" title="html">
+  </div>
+</a>
+
+<a href="#gh-dark-mode-only">
+  <div align="center">
+    <img alt="as" src="https://api.iconify.design/skill-icons:androidstudio-dark.svg" width="100" title="css">
+    <img alt="go" src="https://api.iconify.design/skill-icons:golang.svg" width="100" title="css">
+    <img alt="dart" src="https://api.iconify.design/skill-icons:dart-dark.svg" width="100" title="css">
+    <img alt="docker" src="https://api.iconify.design/skill-icons:docker.svg" width="100" title="vscode">
+    <img alt="flutter" src="https://api.iconify.design/skill-icons:flutter-dark.svg" width="100" title="python">
+    <img alt="jest" src="https://api.iconify.design/skill-icons:jest.svg" width="100" title="html">
+    <img alt="k8s" src="https://api.iconify.design/skill-icons:kubernetes.svg" width="100" title="html">
+    <img alt="nestjs" src="https://api.iconify.design/skill-icons:nestjs-dark.svg" width="100" title="vscode">
+    <img alt="vercel" src="https://api.iconify.design/skill-icons:vercel-dark.svg" width="100" title="python">
+    <img alt="actions" src="https://api.iconify.design/skill-icons:githubactions-dark.svg" width="100" title="html">
+    <img alt="rollup" src="https://api.iconify.design/skill-icons:rollupjs-dark.svg" width="100" title="html">
+    <img alt="vite" src="https://api.iconify.design/skill-icons:vite-dark.svg" width="100" title="vscode">
+    <img alt="webpack" src="https://api.iconify.design/skill-icons:webpack-dark.svg" width="100" title="python">
+    <img alt="ts" src="https://api.iconify.design/skill-icons:typescript.svg" width="100" title="html">
+    <img alt="tailwind" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" width="100" title="html">
+    <img alt="tauri" src="https://api.iconify.design/skill-icons:tauri-dark.svg" width="100" title="html">
+    <img alt="rust" src="https://api.iconify.design/skill-icons:rust.svg" width="100" title="html">
+  </div>
+</a>
 
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
