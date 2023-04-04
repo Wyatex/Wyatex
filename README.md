@@ -11,6 +11,16 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+<div align="center">
+  <img alt="vercel" src="https://api.iconify.design/logos:vercel.svg" height="100" title="css">
+  <img alt="go" src="https://api.iconify.design/logos:go.svg" height="100" title="css">
+  <img alt="spring" src="https://api.iconify.design/logos:spring.svg" height="100" title="css">
+  <img alt="vite" src="https://api.iconify.design/logos:vitejs.svg" width="100" title="vscode">
+  <img alt="vue" src="https://api.iconify.design/logos:vue.svg" width="100" title="python">
+  <img alt="flutter" src="https://api.iconify.design/logos:flutter.svg" width="100" title="html">
+  <img alt="rust" src="https://api.iconify.design/logos:rust.svg" width="100" title="html">
+</div>
+
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
