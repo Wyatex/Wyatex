@@ -66,10 +66,9 @@
 <div align="center">
  
 - 💻 一个底层打工程序员
-- 🎨 学过的语言好像有点多，Java、Go、JS/TS、Dart
-- 📱 最近在搞大前端，Flutter、Uniapp、Weex、Tauri......
-- 📖 在学Rust和Python
-- 📝 来看看我的文章？ [wyatex.work](https://wyatex.work)
+- 🎨 曾接触过的语言：C、Java、Go、JS/TS、Dart、Python
+- 📖 在学Rust
+- 📝 来看看我的文章？ [wyatex.work](https://wyatex.online)
 - 📫 想联系我吗？ **wyatex@qq.com**
 
 </div>
