@@ -93,5 +93,5 @@
 <a href="#gh-dark-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=wyatex&theme=algolia&row=1&column=6&no-frame=true" /></a>
 <br>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Wyatex/Wyatex/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Wyatex/Wyatex/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Wyatex/Wyatex/master/assets/contribution-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Wyatex/Wyatex/master/assets/contribution-snake-dark.svg#gh-dark-mode-only)
