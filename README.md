@@ -67,7 +67,7 @@
  
 - 💻 一个底层打工程序员
 - 🎨 曾接触过的语言：C、Java、Go、JS/TS、Dart、Python
-- 📖 在学Rust
+- 📖 在学Rust、机器学习
 - 📝 来看看我的 [文章](https://wyatex.online)？
 - 📫 想联系我吗？ **wyatex@qq.com**
 
