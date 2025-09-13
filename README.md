@@ -57,9 +57,6 @@
   </div>
 </a>
 
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
 <h1 align="center">I'm Wyatex</h1>
 <h3 align="center">A passionate frontend and backend developer from China</h3>
 
@@ -68,7 +65,7 @@
 - 💻 一个底层打工程序员
 - 🎨 曾接触过的语言：C、Java、Go、JS/TS、Dart、Python
 - 📖 在学Rust、机器学习
-- 📝 来看看我的 [文章](https://wyatex.xyz)？
+- 📝 来看看我的 [文章](https://wyatex.my)？
 - 📫 想联系我吗？ **wyatex@qq.com**
 
 </div>
@@ -92,6 +89,3 @@
 <a href="#gh-light-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=wyatex&row=1&column=6&no-bg=true" /></a>
 <a href="#gh-dark-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=wyatex&theme=algolia&row=1&column=6&no-frame=true" /></a>
 <br>
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Wyatex/Wyatex/output/contribution-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Wyatex/Wyatex/output/contribution-snake-dark.svg#gh-dark-mode-only)
