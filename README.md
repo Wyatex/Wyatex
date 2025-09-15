@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="android" width="300" height="40"/> visitor </h1>
+<!-- <h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="android" width="300" height="40"/> visitor </h1> -->
 
 <h1 align="center">技能清单</h1>
 
