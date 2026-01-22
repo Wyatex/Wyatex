@@ -65,27 +65,20 @@
 - 💻 一个底层打工程序员
 - 🎨 曾接触过的语言：C、Java、Go、JS/TS、Dart、Python
 - 📖 在学Rust、机器学习
-- 📝 来看看我的 [文章](https://wyatex.top)？
+- 📝 来看看我的 [文章](https://juejin.cn/user/1179091901098269)？
 - 📫 想联系我吗？ **wyatex@qq.com**
 
 </div>
 
 <a href="#gh-light-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyatex" width="300" title="html">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
   <img align="right" src="https://quotes-github-readme.vercel.app/api" width="300">
 </a>
 
 <a href="#gh-dark-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyatex&theme=algolia&hide_border=true" width="300" title="html">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
   <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=algolia" width="300">
 </a>
 
-<a href="#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyatex" alt="wyatex" /></a>
-<a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyatex&theme=algolia&hide_border=true" alt="wyatex" /></a>
-
 <!-- GitHub奖杯🏆 -->
-<a href="#gh-light-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=wyatex&row=1&column=6&no-bg=true" /></a>
-<a href="#gh-dark-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=wyatex&theme=algolia&row=1&column=6&no-frame=true" /></a>
 <br>
