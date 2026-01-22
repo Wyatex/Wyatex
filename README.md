@@ -71,11 +71,11 @@
 </div>
 
 <a href="#gh-light-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
 </a>
 
 <a href="#gh-dark-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
 </a>
 
 <!-- GitHub奖杯🏆 -->
