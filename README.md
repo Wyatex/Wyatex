@@ -72,12 +72,10 @@
 
 <a href="#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
-  <img align="right" src="https://quotes-github-readme.vercel.app/api" width="300">
 </a>
 
 <a href="#gh-dark-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
-  <img align="right" src="https://quotes-github-readme.vercel.app/api?&theme=algolia" width="300">
 </a>
 
 <!-- GitHub奖杯🏆 -->
