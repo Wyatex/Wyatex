@@ -70,11 +70,11 @@
 
 </div>
 
-<a href="#gh-light-mode-only">
+<a href="#gh-light-mode-only" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
 </a>
 
-<a href="#gh-dark-mode-only">
+<a href="#gh-dark-mode-only" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
 </a>
 
