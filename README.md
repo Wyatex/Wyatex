@@ -1,82 +1,61 @@
-<!-- <h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="android" width="300" height="40"/> visitor </h1> -->
-
-<h1 align="center">技能清单</h1>
-
-<!-- Gif -->
 <div align="center">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  
+<h2><i>「 我来构思，我来提示，我来交付。<br>我将灵感织入上下文，赋魂于硅基，逻辑与像素自然成。<br>一切献给——通用智能。」</i></h2>
+
+<h4><i>"I come to vibe. I come to prompt. I come to ship.<br>I weave intent into the context. Breathe soul into silicon. Let logic and pixels render as they will.<br>All for the AGI."</i></h4>
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Wyatex+👋;A+Passionate+Full-Stack+Developer)
+
 </div>
 
+---
+
+### 👨‍💻 关于我 | About Me
+
+我是一名来自中国的全栈开发者，自嘲是“底层打工程序员”，但在 AI 时代，我更愿做一名穿梭在代码与模型之间的创造者。
+
+- 🔭 **当前聚焦 (Focus):** 正在深入学习 **Rust**，并探索 **机器学习 (Machine Learning)** 的无限可能。
+- ⚔️ **技术武器库 (Stack):** 曾游刃有余地穿梭于 `C`、`Java`、`Go`、`JavaScript/TypeScript`、`Dart` 与 `Python` 之间。
+- 📝 **技术输出 (Blog):** 我习惯将思考沉淀为文字，欢迎光临我的 [掘金主页 (Juejin)](https://juejin.cn/user/1179091901098269)。
+- 📫 **联系方式 (Contact):** 随时欢迎交流探讨 👉 **wyatex@qq.com**
+
+---
+
+### 🛠️ 技能域 | Skill Sphere
+
+> *摒弃繁杂，只留核心。以下是我构建世界的工具箱：*
+
+**核心语言 / Languages:**
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**探索与进化 / Exploring:**
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 📊 硅基足迹 | GitHub Stats
+
+<div align="center">
+
 <a href="#gh-light-mode-only">
-  <div align="center">
-    <img alt="as" src="https://api.iconify.design/skill-icons:androidstudio-light.svg" width="100" title="AndroidStudio">
-    <img alt="go" src="https://api.iconify.design/skill-icons:golang.svg" width="100" title="Go">
-    <img alt="dart" src="https://api.iconify.design/skill-icons:dart-light.svg" width="100" title="Dart">
-    <img alt="docker" src="https://api.iconify.design/skill-icons:docker.svg" width="100" title="Docker">
-    <img alt="flutter" src="https://api.iconify.design/skill-icons:flutter-light.svg" width="100" title="Flutter">
-    <img alt="jest" src="https://api.iconify.design/skill-icons:jest.svg" width="100" title="Jest">
-    <img alt="k8s" src="https://api.iconify.design/skill-icons:kubernetes.svg" width="100" title="Kubernetes">
-    <img alt="nestjs" src="https://api.iconify.design/skill-icons:nestjs-light.svg" width="100" title="NestJS">
-    <img alt="vercel" src="https://api.iconify.design/skill-icons:vercel-light.svg" width="100" title="Vercel">
-    <img alt="actions" src="https://api.iconify.design/skill-icons:githubactions-light.svg" width="100" title="GithubActions">
-    <img alt="rollup" src="https://api.iconify.design/skill-icons:rollupjs-light.svg" width="100" title="Rollup">
-    <img alt="vite" src="https://api.iconify.design/skill-icons:vite-light.svg" width="100" title="Vite">
-    <img alt="webpack" src="https://api.iconify.design/skill-icons:webpack-light.svg" width="100" title="Webpack">
-    <img alt="ts" src="https://api.iconify.design/skill-icons:typescript.svg" width="100" title="Typescript">
-    <img alt="tailwind" src="https://api.iconify.design/skill-icons:tailwindcss-light.svg" width="100" title="Tailwind">
-    <img alt="tauri" src="https://api.iconify.design/skill-icons:tauri-light.svg" width="100" title="Tauri">
-    <img alt="rust" src="https://api.iconify.design/skill-icons:rust.svg" width="100" title="Rust">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=36BCF7&hide_border=true" alt="Wyatex's GitHub Stats"/>
 </a>
 
 <a href="#gh-dark-mode-only">
-  <div align="center">
-    <img alt="as" src="https://api.iconify.design/skill-icons:androidstudio-dark.svg" width="100" title="AndroidStudio">
-    <img alt="go" src="https://api.iconify.design/skill-icons:golang.svg" width="100" title="Go">
-    <img alt="dart" src="https://api.iconify.design/skill-icons:dart-dark.svg" width="100" title="Dart">
-    <img alt="docker" src="https://api.iconify.design/skill-icons:docker.svg" width="100" title="Docker">
-    <img alt="flutter" src="https://api.iconify.design/skill-icons:flutter-dark.svg" width="100" title="Flutter">
-    <img alt="jest" src="https://api.iconify.design/skill-icons:jest.svg" width="100" title="Jest">
-    <img alt="k8s" src="https://api.iconify.design/skill-icons:kubernetes.svg" width="100" title="Kubernetes">
-    <img alt="nestjs" src="https://api.iconify.design/skill-icons:nestjs-dark.svg" width="100" title="NestJS">
-    <img alt="vercel" src="https://api.iconify.design/skill-icons:vercel-dark.svg" width="100" title="Vercel">
-    <img alt="actions" src="https://api.iconify.design/skill-icons:githubactions-dark.svg" width="100" title="GithubActions">
-    <img alt="rollup" src="https://api.iconify.design/skill-icons:rollupjs-dark.svg" width="100" title="Rollup">
-    <img alt="vite" src="https://api.iconify.design/skill-icons:vite-dark.svg" width="100" title="Vite">
-    <img alt="webpack" src="https://api.iconify.design/skill-icons:webpack-dark.svg" width="100" title="Webpack">
-    <img alt="ts" src="https://api.iconify.design/skill-icons:typescript.svg" width="100" title="Typescript">
-    <img alt="tailwind" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" width="100" title="Tailwind">
-    <img alt="tauri" src="https://api.iconify.design/skill-icons:tauri-dark.svg" width="100" title="Tauri">
-    <img alt="rust" src="https://api.iconify.design/skill-icons:rust.svg" width="100" title="Rust">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=36BCF7&hide_border=true" alt="Wyatex's GitHub Stats"/>
 </a>
-
-<h1 align="center">I'm Wyatex</h1>
-<h3 align="center">A passionate frontend and backend developer from China</h3>
-
-<div align="center">
- 
-- 💻 一个底层打工程序员
-- 🎨 曾接触过的语言：C、Java、Go、JS/TS、Dart、Python
-- 📖 在学Rust、机器学习
-- 📝 来看看我的 [文章](https://juejin.cn/user/1179091901098269)？
-- 📫 想联系我吗？ **wyatex@qq.com**
 
 </div>
 
-<a href="#gh-light-mode-only" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true"/>
-</a>
-
-<a href="#gh-dark-mode-only" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
-</a>
-
-<!-- GitHub奖杯🏆 -->
-<br>
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="visitor count"/>
+</div>
