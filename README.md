@@ -59,13 +59,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=36BCF7&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=36BCF7&hide_border=true">
-  <img alt="Wyatex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wyatex&show_icons=true&count_private=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=36BCF7&hide_border=true" />
-</picture>
-
-<br><br>
-<img src="https://profile-counter.glitch.me/Wyatex/count.svg" alt="visitor count"/>
+<a href="https://ghfind.com/u/wyatex?ref=badge"><img src="https://ghfind.com/api/card/wyatex?theme=dark&variant=path" alt="GitHub Roast" width="600" /></a>
 
 </div>
